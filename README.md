@@ -1,2 +1,4 @@
 # becca0525.github.com
-for my Gitblog
+for my project
+
+project in master
